@@ -11,7 +11,7 @@ Explore a wide range of regularization strategies to combat overfitting and enha
 
 | Notebook | Description |
 |----------|-------------|
-| `01_regularization_variants.ipynb` | Implements and compares L1, L2, and ElasticNet-style regularization using Keras layers. |
+| [`01_regularization_variants.ipynb`](https://colab.research.google.com/drive/1J6QuxUER7MO6KnkBDGPJ3Ty7Xo2lyCNd?usp=sharing) | Implements and compares L1, L2, and ElasticNet-style regularization using Keras layers. |
 | `02_dropout_in_resnets.ipynb` | Demonstrates dropout techniques within ResNet-like architectures. |
 | `03_mc_dropout_uncertainty.ipynb` | Applies Monte Carlo Dropout to quantify uncertainty in predictions. |
 | `04_earlystopping_vs_reducelronplateau.ipynb` | Compares EarlyStopping and ReduceLROnPlateau callbacks. |
