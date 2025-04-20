@@ -21,7 +21,7 @@ Explore a wide range of regularization strategies to combat overfitting and enha
 | `08_callbacks_experiment_tracker.ipynb` | Uses WandB/MLflow for real-time experiment tracking and visualization. |
 | `https://colab.research.google.com/drive/1AYOik7ZJvtsSNj0jGvDyCW6KPqB4lqfv?usp=sharing` | Applies data augmentation using TensorFlow Addons. |
 | `https://colab.research.google.com/drive/1wOhMm1x5qlHnSapsU2rMcf6nRIB05ADj?usp=sharing` | Uses Meta’s AugLy for augmenting text, video, and images. |
-| `11_augment_tabular_data.ipynb` | Demonstrates noise injection and SMOTE-style augmentation for tabular data. |
+| `https://colab.research.google.com/drive/1Uoi_EF3-sjs6kJkk4XT-3OefjxOfrBu9?usp=sharing` | Demonstrates noise injection and SMOTE-style augmentation for tabular data. |
 | `(https://colab.research.google.com/drive/1jscfodNE3FTQI3WhBRnp6oLrPlcuFKR5?usp=sharing)` | Comparative study of FastAI vs Keras augmentation pipelines. |
 
 🎥 _Full walkthrough video coming soon!_
