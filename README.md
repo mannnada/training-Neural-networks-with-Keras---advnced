@@ -13,7 +13,7 @@ Explore a wide range of regularization strategies to combat overfitting and enha
 |----------|-------------|
 | [`01_regularization_variants.ipynb`](https://colab.research.google.com/drive/1J6QuxUER7MO6KnkBDGPJ3Ty7Xo2lyCNd?usp=sharing) | Implements and compares L1, L2, and ElasticNet-style regularization using Keras layers. |
 | `https://colab.research.google.com/drive/1QkjK12Ri4xEhoorYTGNsCYo83cUEmCIO?usp=sharing` | Demonstrates dropout techniques within ResNet-like architectures. |
-| `03_mc_dropout_uncertainty.ipynb` | Applies Monte Carlo Dropout to quantify uncertainty in predictions. |
+| `[03_mc_dropout_uncertainty.ipynb](https://colab.research.google.com/drive/1OQekU6cfLDFRaVQKuTr8J0qDHIyvPG7d?usp=sharing)` | Applies Monte Carlo Dropout to quantify uncertainty in predictions. |
 | `04_earlystopping_vs_reducelronplateau.ipynb` | Compares EarlyStopping and ReduceLROnPlateau callbacks. |
 | `05_weight_init_experiments.ipynb` | Evaluates different initializers: He Normal, Orthogonal, and custom-defined. |
 | `06_norm_layers_beyond_batchnorm.ipynb` | Experiments with BatchNorm, LayerNorm, and GroupNorm for stable training. |
