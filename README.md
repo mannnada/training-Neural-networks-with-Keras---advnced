@@ -19,10 +19,10 @@ Explore a wide range of regularization strategies to combat overfitting and enha
 | `https://colab.research.google.com/drive/160VqTa8mglqERBCpFQ_3Yxcd138hoioa?usp=sharing` | Experiments with BatchNorm, LayerNorm, and GroupNorm for stable training. |
 | `https://colab.research.google.com/drive/1ejO3Om9iIXES6Zui1LbLd4505Yl5883S?usp=sharing` | Defines and integrates a cosine-based custom regularization function. |
 | `08_callbacks_experiment_tracker.ipynb` | Uses WandB/MLflow for real-time experiment tracking and visualization. |
-| `09_image_aug_tensorflow_addons.ipynb` | Applies data augmentation using TensorFlow Addons. |
-| `10_video_text_augly_augmentation.ipynb` | Uses Meta’s AugLy for augmenting text, video, and images. |
+| `https://colab.research.google.com/drive/1AYOik7ZJvtsSNj0jGvDyCW6KPqB4lqfv?usp=sharing` | Applies data augmentation using TensorFlow Addons. |
+| `https://colab.research.google.com/drive/1wOhMm1x5qlHnSapsU2rMcf6nRIB05ADj?usp=sharing` | Uses Meta’s AugLy for augmenting text, video, and images. |
 | `11_augment_tabular_data.ipynb` | Demonstrates noise injection and SMOTE-style augmentation for tabular data. |
-| `12_fastai_vs_keras_aug.ipynb` | Comparative study of FastAI vs Keras augmentation pipelines. |
+| `(https://colab.research.google.com/drive/1jscfodNE3FTQI3WhBRnp6oLrPlcuFKR5?usp=sharing)` | Comparative study of FastAI vs Keras augmentation pipelines. |
 
 🎥 _Full walkthrough video coming soon!_
 
