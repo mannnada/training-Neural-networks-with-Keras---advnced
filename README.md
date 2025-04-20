@@ -17,7 +17,7 @@ Explore a wide range of regularization strategies to combat overfitting and enha
 | `https://colab.research.google.com/drive/1VuDz2cF3t_EfseEbW5Cta4BrzK4abPZO?usp=sharing` | Compares EarlyStopping and ReduceLROnPlateau callbacks. |
 | `[05_weight_init_experiments.ipynb](https://colab.research.google.com/drive/1rCxhFGHguOGvs2hlsQ1mYDfQ97OMlYnu?usp=sharing)` | Evaluates different initializers: He Normal, Orthogonal, and custom-defined. |
 | `https://colab.research.google.com/drive/160VqTa8mglqERBCpFQ_3Yxcd138hoioa?usp=sharing` | Experiments with BatchNorm, LayerNorm, and GroupNorm for stable training. |
-| `07_custom_regularizer_from_scratch.ipynb` | Defines and integrates a cosine-based custom regularization function. |
+| `https://colab.research.google.com/drive/1ejO3Om9iIXES6Zui1LbLd4505Yl5883S?usp=sharing` | Defines and integrates a cosine-based custom regularization function. |
 | `08_callbacks_experiment_tracker.ipynb` | Uses WandB/MLflow for real-time experiment tracking and visualization. |
 | `09_image_aug_tensorflow_addons.ipynb` | Applies data augmentation using TensorFlow Addons. |
 | `10_video_text_augly_augmentation.ipynb` | Uses Meta’s AugLy for augmenting text, video, and images. |
