@@ -35,7 +35,7 @@ Deep-dive into the internals of Keras by creating fully customized layers, activ
 | Notebook | Description |
 |----------|-------------|
 | https://colab.research.google.com/drive/12WiJx3fF4fV9vAJ_K3k95Ln_N3MihBZj?usp=sharing | Covers OneCycleLR, MC Dropout Alpha, custom normalization layers, advanced logging (WandB), custom loss/metrics, attention blocks (SE/CBAM), contrastive learning, and a flexible training loop implementation. |
-
+Youtube Video : https://www.youtube.com/watch?v=IWTH0s75x7c
 ---
 
 ## ✅ How to Use This Repository
