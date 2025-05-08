@@ -24,7 +24,7 @@ Explore a wide range of regularization strategies to combat overfitting and enha
 | https://colab.research.google.com/drive/1Uoi_EF3-sjs6kJkk4XT-3OefjxOfrBu9?usp=sharing | Demonstrates noise injection and SMOTE-style augmentation for tabular data. |
 | https://colab.research.google.com/drive/1jscfodNE3FTQI3WhBRnp6oLrPlcuFKR5?usp=sharing | Comparative study of FastAI vs Keras augmentation pipelines. |
 
-🎥 _Full walkthrough video coming soon!_
+🎥 _ https://www.youtube.com/watch?v=IWTH0s75x7c
 
 ---
 
